@@ -1,0 +1,2 @@
+# typescriptkata
+Created with CodeSandbox
